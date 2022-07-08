@@ -1,4 +1,4 @@
-### Huh, this something new I found
+### Not creative enough to decorate this. Move on.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal)](https://github.com/aaryannagpal/github-readme-stats)-->
 
