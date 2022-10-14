@@ -6,8 +6,8 @@
 
 [!["Website"](https://img.shields.io/badge/-aaryannagpal.github.io-yellow)](https://aaryannagpal.github.io/)
 [!["Gmail"](https://img.shields.io/badge/-aaryannagpal65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal65@gmail.com)](mailto:aaryannagpal65@gmail.com)
-[!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryannagpal/)](https://www.linkedin.com/in/aaryannagpal/)
-[!["Instagram"](https://img.shields.io/badge/-itsnagpal-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)
+[!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryan-nagpal/)](https://www.linkedin.com/in/aaryan-nagpal/)
+[!["Instagram"](https://img.shields.io/badge/-itsnagpal-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal\_/)](https://instagram.com/itsnagpal_)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center"> 
 
-  [<img align="center" src="https://komarev.com/ghpvc/?username=angadvirk&color=blue&style=flat&label=Profile+Views" alt="angadvirk profile views" />](https://github.com/antonkomarev/github-profile-views-counter)
+  [<img align="center" src="https://komarev.com/ghpvc/?username=aaryannagpal&color=blue&style=flat&label=Profile+Views" alt="aaryan profile views" />](https://github.com/aaryannagpal/github-profile-views-counter)
   
 </div>
 
