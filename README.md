@@ -35,21 +35,35 @@
 ⚡️ Following are some of the technologies I'm familiar with: <br /> <br />
 
 <div align="center">
-  
+ 
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.com/html5/)
 [![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat&logo=css3)](https://www.w3schools.com/Css/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org/en/)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<!--[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)](https://git-scm.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) <br />
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
-[![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)](https://bitbucket.org/product/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)-->
+
+
   
 </div>
 
