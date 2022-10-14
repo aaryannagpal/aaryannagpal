@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=prs,issues,contribs&show_icons=true&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs,issues,contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
 <br>
