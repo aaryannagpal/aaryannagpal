@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-[!["Github"](https://img.shields.io/badge/-aaryannagpal-black?style=flat&logo=Github&logoColor=white&link=https://github.com/aaryannagpal/)](https://github.com/aaryannagpal/)
+[!["Github"](https://img.shields.io/badge/-aaryannagpal-yellow?style=flat&logo=Github&logoColor=white&link=https://github.com/aaryannagpal/)](https://github.com/aaryannagpal/)
 [!["Gmail"](https://img.shields.io/badge/-aaryannagpal65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal65@gmail.com)](mailto:aaryannagpal65@gmail.com)
 [!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)](https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)
 [!["Instagram"](https://img.shields.io/badge/-itsnagpal__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)
