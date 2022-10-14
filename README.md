@@ -1,18 +1,18 @@
 <p align="center">
-  <h3 align="center">Hi 👋, I'm Angad.</h3>
+  <h3 align="center">Hello 👋, I'm Aaryan.</h3>
 </p>
 
 <div align="center"> 
 
-[!["Website"](https://img.shields.io/badge/-angadvirk.github.io-yellow)](https://angadvirk.github.io/)
-[!["Gmail"](https://img.shields.io/badge/-angad.virk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:angad.virk@gmail.com)](mailto:angad.virk@gmail.com)
+[!["Website"](https://img.shields.io/badge/-aaryannagpal.github.io-yellow)](https://aaryannagpal.github.io/)
+[!["Gmail"](https://img.shields.io/badge/-aaryannagpal65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal65@gmail.com)](mailto:aaryannagpal65@gmail.com)
 [!["Linkedin"](https://img.shields.io/badge/-angadvirk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angadvirk/)](https://www.linkedin.com/in/angadvirk/)
 [!["Instagram"](https://img.shields.io/badge/-angadsvirk-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/angadsvirk/)](https://instagram.com/angadsvirk)
 
 </div>
 
 <p align="center">
-  <p align="center">I'm a Software Engineer currently based in Los Angeles, California.</p>
+  <p align="center">I'm a Sophomore studying in Ashoka University</p>
 </p>
 
 <div align="center"> 
