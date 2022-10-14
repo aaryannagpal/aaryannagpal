@@ -34,7 +34,7 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=issues,contribs,prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=issues,contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
@@ -66,7 +66,7 @@
 
 <div align="center"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal&hide=TeX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal&hide=TeX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
