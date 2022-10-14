@@ -6,8 +6,8 @@
 
 [!["Website"](https://img.shields.io/badge/-aaryannagpal.github.io-yellow)](https://aaryannagpal.github.io/)
 [!["Gmail"](https://img.shields.io/badge/-aaryannagpal65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal65@gmail.com)](mailto:aaryannagpal65@gmail.com)
-[!["Linkedin"](https://img.shields.io/badge/-angadvirk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angadvirk/)](https://www.linkedin.com/in/angadvirk/)
-[!["Instagram"](https://img.shields.io/badge/-angadsvirk-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/angadsvirk/)](https://instagram.com/angadsvirk)
+[!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryannagpal/)](https://www.linkedin.com/in/aaryannagpal/)
+[!["Instagram"](https://img.shields.io/badge/-itsnagpal-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)
 
 </div>
 
