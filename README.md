@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=prs,issues,contribs&show_icons=true&theme=synthwave)
 </div>
 <br>
 🗿 Things I'm familiar with: <br /> <br />
