@@ -34,7 +34,7 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=contribs,prs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
