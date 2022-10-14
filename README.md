@@ -31,6 +31,9 @@
 
 <hr/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 🗿 Things I'm familiar with: <br /> <br />
 
 <div align="center">
@@ -58,7 +61,6 @@
 <br />
 
 <div align="center"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
