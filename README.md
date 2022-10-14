@@ -38,7 +38,6 @@
 </div>
 
 <br>
-<br>
 🗿 Things I'm familiar with: <br /> <br />
 
 <div align="center">
