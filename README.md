@@ -23,16 +23,16 @@
 
 <hr/>
 
-🛠 I like to build Web 🕸 and Mobile 📱 Applications. <br /> <br />
+🛠 I like to learn alot! <br /> <br />
 
-- 💻 I'm currently working on a simple **[Blog Website](https://github.com/angadvirk/NodeBlog)** to review Node.js fundamentals.
-- 🌱 I'm reviewing how to use Node, Express and MongoDB to create CRUD applications.
-- 💼 I most recently worked as a Software Engineer Intern at MakeMyTrip, where I wrote code in React Native. 
-- 📫 Email Me - angad.virk@gmail.com
+<!--- 💻 I'm currently working on a simple **[Blog Website](https://github.com/angadvirk/NodeBlog)** to review Node.js fundamentals.
+- 🌱 I'm reviewing how to use Node, Express and MongoDB to create CRUD applications. -->
+- 💼 I am currently interning at HP Inc.
+- 📫 Email Me - aaryannagpal65@gmail.com
 
 <hr/>
 
-⚡️ Following are some of the technologies I'm familiar with: <br /> <br />
+⚡️ Things I'm familiar with: <br /> <br />
 
 <div align="center">
  
@@ -46,22 +46,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-<!--[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org/en/)
-[![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat&logo=css3)](https://www.w3schools.com/Css/)
-[![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)](https://reactjs.org/)
-[![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)](https://git-scm.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) <br />
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
-[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket)](https://bitbucket.org/product/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)-->
+  
 
 
   
@@ -74,9 +63,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal&hide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) -->
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
-<!-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) -->
-<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
-<!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
