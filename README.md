@@ -23,7 +23,6 @@
 
 <hr/>
 
-🛠 I like to learn alot! <br /> <br />
 
 <!--- 💻 I'm currently working on a simple **[Blog Website](https://github.com/angadvirk/NodeBlog)** to review Node.js fundamentals.
 - 🌱 I'm reviewing how to use Node, Express and MongoDB to create CRUD applications. -->
@@ -32,7 +31,7 @@
 
 <hr/>
 
-⚡️ Things I'm familiar with: <br /> <br />
+🗿 Things I'm familiar with: <br /> <br />
 
 <div align="center">
  
