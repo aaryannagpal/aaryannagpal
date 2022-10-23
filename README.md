@@ -23,11 +23,10 @@
 
 <hr/>
 
-
-<!--- 💻 I'm currently working on a simple **[Blog Website](https://github.com/angadvirk/NodeBlog)** to review Node.js fundamentals.
-- 🌱 I'm reviewing how to use Node, Express and MongoDB to create CRUD applications. -->
 - 💼 I am currently interning at HP Inc.
 - 📫 Email Me - aaryannagpal65@gmail.com
+- 💻 Connect at https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/
+
 
 <hr/>
 <br>
