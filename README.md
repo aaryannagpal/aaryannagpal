@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <p align="center">I'm a Sophomore studying in Ashoka University</p>
+  <p align="center">I'm a Sophomore CS Major, studying in Ashoka University</p>
 </p>
 
 <div align="center"> 
