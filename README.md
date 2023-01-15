@@ -1,15 +1,7 @@
 <p align="center">
-  <h3 align="center">Hello 👋, I'm Aaryan.</h3>
+  <h3 align="center">I'm Aaryan Nagpal.</h3>
 </p>
 
-<div align="center"> 
-
-[!["Github"](https://img.shields.io/badge/-aaryannagpal-yellow?style=flat&logo=Github&logoColor=white&link=https://github.com/aaryannagpal/)](https://github.com/aaryannagpal/)
-[!["Gmail"](https://img.shields.io/badge/-aaryannagpal65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal65@gmail.com)](mailto:aaryannagpal65@gmail.com)
-[!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)](https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)
-[!["Instagram"](https://img.shields.io/badge/-itsnagpal__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)
-
-</div>
 
 <p align="center">
   <p align="center">I'm a Sophomore CS Major, studying in Ashoka University</p>
@@ -24,7 +16,7 @@
 <hr/>
 
 - 💼 I am currently interning at HP Inc.
-- 📫 Email Me - aaryannagpal65@gmail.com
+- 📫 Email Me - aaryannagpal@gmail.com
 - 💻 Connect at https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/
 
 
@@ -68,5 +60,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryannagpal&hide=TeX&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+</div>
+
+<div align="center"> 
+
+[!["Github"](https://img.shields.io/badge/-aaryannagpal-yellow?style=flat&logo=Github&logoColor=white&link=https://github.com/aaryannagpal/)](https://github.com/aaryannagpal/)
+[!["Gmail"](https://img.shields.io/badge/-aaryannagpal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaryannagpal@gmail.com)](mailto:aaryannagpal@gmail.com)
+[!["Linkedin"](https://img.shields.io/badge/-aaryannagpal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)](https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/)
+<!--[!["Instagram"](https://img.shields.io/badge/-itsnagpal__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)-->
 
 </div>
