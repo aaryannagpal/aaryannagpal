@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <p align="center">I'm a Sophomore CS Major, studying in Ashoka University</p>
+  <p align="center">I'm a CS Major in my Junior Year, studying at Ashoka University</p>
 </p>
 
 <div align="center"> 
@@ -71,3 +71,5 @@
 <!--[!["Instagram"](https://img.shields.io/badge/-itsnagpal__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/itsnagpal_/)](https://instagram.com/itsnagpal_)-->
 
 </div>
+<br>
+<p align="left">I am not <b>that</b> boring, just most of my interesting repositories are private
