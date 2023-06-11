@@ -15,9 +15,10 @@
 
 <hr/>
 
-- 💼 I am currently interning at HP Inc.
-- 📫 Email Me - aaryannagpal@gmail.com
-- 💻 Connect at https://www.linkedin.com/in/aaryannagpal
+- 💼 I am currently interning at HP Inc. and Mphasis Labs.
+
+- 📫 Email [Here](aaryannagpal@gmail.com)
+- 💻 Connect on [LinkedIn](https://www.linkedin.com/in/aaryannagpal)
 
 <hr/>
 <br>
