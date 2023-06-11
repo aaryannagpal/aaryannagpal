@@ -17,8 +17,7 @@
 
 - 💼 I am currently interning at HP Inc.
 - 📫 Email Me - aaryannagpal@gmail.com
-- 💻 Connect at https://www.linkedin.com/in/aaryan-nagpal-9bbbb6145/
-
+- 💻 Connect at https://www.linkedin.com/in/aaryannagpal
 
 <hr/>
 <br>
