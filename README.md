@@ -21,12 +21,12 @@
 - 💻 Connect on [LinkedIn](https://www.linkedin.com/in/aaryannagpal)
 
 <hr/>
-<br>
+<be>
 
-<div align="center">
+<!-- <div align="center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryannagpal&hide=issues,contribs,prs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 <br>
 🗿 Things I'm familiar with: <br /> <br />
 
