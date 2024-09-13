@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <p align="center">I'm a CS Major in my Junior Year, studying at Ashoka University</p>
+  <p align="center">I'm a CS Major in my Senior Year, studying at Ashoka University</p>
 </p>
 
 <div align="center"> 
