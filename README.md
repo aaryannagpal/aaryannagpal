@@ -15,7 +15,7 @@
 
 <hr/>
 
-- 💼 I am currently interning at HP Inc. and Mphasis Labs.
+- 💼 I am currently interning at Office of Ananya Birla. Previously interned at HP Inc. and Mphasis Labs at Ashoka University.
 
 - 📫 Email [Here](aaryannagpal@gmail.com)
 - 💻 Connect on [LinkedIn](https://www.linkedin.com/in/aaryannagpal)
