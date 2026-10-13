@@ -16,7 +16,7 @@
 <hr/>
 <p align="left">
   Check out my website:
-  <a href="https://aaryannagpal.github.io/" target="_blank" rel="noopener noreferrer">
-    aaryannagpal.github.io
+  <a href="https://aaryannagpal.com/" target="_blank" rel="noopener noreferrer">
+    aaryannagpal.com
   </a>
 </p>
